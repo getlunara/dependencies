@@ -1,0 +1,15 @@
+{
+    "alert": {
+        "enabled": true,
+        "message": "This is a test message, ignore."
+    },
+    "website": "https://getlunara.cc",
+    "discord": "https://discord.gg/lunara",
+    "credits": [
+        {"name": "fayy", "discord": "blamingthemovies", "discord_id": "855840079376285727"},
+        {"name": "Gladiator", "discord": "gladiator_0315", "discord_id": "1004994479482228747"},
+        {"name": "Blitz", "discord": "blitzisking", "discord_id": "576849921471152140"}
+    ],
+    "full_ver": "1.0.0",
+    "lite_ver": "1.0.0"
+}
